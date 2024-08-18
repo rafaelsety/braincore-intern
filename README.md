@@ -1,2 +1,2 @@
-# braincore-intern
-Repository for Internship in Braincore
+# braincore-internship
+Tugas terdapat pada masing-masing branch
