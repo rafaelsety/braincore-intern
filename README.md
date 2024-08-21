@@ -1,6 +1,6 @@
 # Week 1 - Tugas 3
 
-Create .env file with jwt key, certificate ssl and private key it self add:
+Create ssl folder and .env file with jwt key, certificate ssl and private key it self add:
 
 JWT_SECRET_KEY=...
 
