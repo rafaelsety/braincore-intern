@@ -1,8 +1,12 @@
 # Week 1 - Tugas 3
 
-Create .env file, add:
-PORT=3000
+Create .env file with jwt key, certificate ssl and private key it self add:
+
 JWT_SECRET_KEY=...
+
+SSL_CERT_PATH=...
+
+SSL_KEY_PATH=...
 
 # Elysia with Bun runtime
 
@@ -26,6 +30,8 @@ To start the test run:
 
 ```bash
 bun run test
+```
 
-Open http://localhost:3000/ with your browser to see the result.
+```bash
+Open https://localhost:433/ with your browser to see the result.
 ```

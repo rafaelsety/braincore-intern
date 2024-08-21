@@ -6,7 +6,7 @@ import { Elysia } from "elysia";
 // TODO Tulis test untuk endpoint API Anda dan pastikan semuanya berfungsi dengan baik.
 describe("Tugas 3 API - Authentication Test", () => {
   let server: any;
-  const port = 3000;
+  const port = 443;
 
   beforeAll(() => {
     const app = new Elysia().use(new AuthController().init());
