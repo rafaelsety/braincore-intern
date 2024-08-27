@@ -1,0 +1,30 @@
+.custom-nav-bg{
+    background-color: rgb(20,21,26);
+}
+.card-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.custom-card{
+    width: 18rem;
+}
+.custom-card .card-image{
+    height: 24rem;
+}
+.selected{
+    text-decoration: underline;
+}
+.edit-buttons{
+    width: 45%;
+}
+.name-price-contianer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-container{
+    display: flex !important;
+    justify-content: center !important;
+}
